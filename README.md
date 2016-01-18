@@ -1,2 +1,2 @@
 # History-Print-Culture
-This is created as a school history project.
+This is created as a school computer science project.
